@@ -1,0 +1,17 @@
+{
+    "name": "andufratu/cake-data-gridder",
+    "description": "Data gridder",
+    "type": "cakephp-plugin",
+    "authors": [
+        {
+            "name": "Andu Fratu",
+            "email": "andu@fratu.ro"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
